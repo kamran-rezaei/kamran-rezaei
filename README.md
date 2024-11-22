@@ -34,3 +34,14 @@ I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Mac
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Libraries & Tools**
+- **Machine Learning:** `Scikit-learn`, `TensorFlow`, `PyTorch`
+- **Data Analysis & Visualization:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`
+- **Mathematical Computing:** `MATLAB`, `SymPy`
+
+## 📊 **GitHub Stats**
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
