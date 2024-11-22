@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm **Kamran Rezaei**, a **PhD in Mathematics** with a passion for **Machine Learning** and **Data Science**. My work combines advanced mathematics and coding to solve challenging real-world problems. 🚀
+I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Machine Learning** and **Data Science**. My work combines advanced mathematics and coding to solve challenging real-world problems. 🚀
 
 ![Coding Gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
@@ -9,7 +9,7 @@ I'm **Kamran Rezaei**, a **PhD in Mathematics** with a passion for **Machine Lea
 ## 💡 **About Me**
 
 - 🎓 **Educational Background:**  
-  I hold a PhD in **Mathematics**, specializing in [Your Specialization/Field].
+  I hold a **PhD in Applied Mathematics**, specializing in **Machine Learning**و **Data Science** and **Optimization**.
 
 - 🔭 **Research Interests:**  
   - Machine Learning Algorithms  
