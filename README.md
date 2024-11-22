@@ -40,14 +40,9 @@ I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Mac
 - **Data Analysis & Visualization:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`
 - **Mathematical Computing:** `MATLAB`, `SymPy`
 
-## 📊 **GitHub Stats**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌍 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=your-scholar-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran-rezaei90)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-%234285F4.svg?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=4oai4AUAAAAJ&hl=en)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamran.rezaei6990@gmail.com)
 
