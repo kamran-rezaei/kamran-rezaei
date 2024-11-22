@@ -5,7 +5,6 @@ I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Mac
 
 ![Coding Gif](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
-
 ## 💡 **About Me**
 
 - 🎓 **Educational Background:**  
@@ -16,16 +15,12 @@ I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Mac
   - Data Science
   - Meta-Heuristic Optimization Algorithms 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently Exploring:**  
+  - Advanced Data Science Algorithms  
+  - Machine Learning Techniques and Applications  
+  - Metaheuristic Optimization Methods (e.g., Genetic Algorithms, Particle Swarm Optimization)
+ 
+- 🎯 **Goals:**  
+  - Build impactful ML solutions for real-world challenges.  
+  - Collaborate on open-source projects in Data Science and AI.
+ 
