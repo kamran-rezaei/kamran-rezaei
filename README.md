@@ -9,13 +9,12 @@ I'm **Kamran Rezaei**, a **PhD in Applied Mathematics** with a passion for **Mac
 ## 💡 **About Me**
 
 - 🎓 **Educational Background:**  
-  I hold a **PhD in Applied Mathematics**, specializing in **Machine Learning**و **Data Science** and **Optimization**.
+  I hold a **PhD in Applied Mathematics**, specializing in **Machine Learning**, **Data Science** and **Optimization**.
 
 - 🔭 **Research Interests:**  
-  - Machine Learning Algorithms  
-  - Optimization Techniques  
-  - Statistical Modeling  
-  - High-Performance Computing 
+  - Machine Learning Algorithms
+  - Data Science
+  - Meta-Heuristic Optimization Algorithms 
 
 
 
